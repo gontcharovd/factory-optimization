@@ -17,7 +17,7 @@ Let's see how to implement such a pipeline
 ## Why OEE?
 Overall Equipment Effectiveness (OEE) is a measure of how well a manufacturing operation is utilized (facilities, time and material) compared to its full potential, during the periods when it is scheduled to run. [References](https://en.wikipedia.org/wiki/Overall_equipment_effectiveness). 
 
-OEE is the industry standard for measuring manufacturing productivity. OEE is calculated using 3 atttributes
+OEE is the industry standard for measuring manufacturing productivity. OEE is calculated using 3 attributes
 
 1. **Availability:** accounts for planned and unplanned stoppages, percentage of scheduled time that the operation is/was available to operate. *i.e.* __(Healthy_time - Error_time)/(Total_time)__
 2. **Performance:** measure of speed at which the work happens, percentage of its designed speed. *i.e.* __Healthy_time/ Total_time__
